@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": "tutorial:limestone"
+  },
+  "pattern": [
+    "m m",
+    "mmm",
+    " m "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorial:maple_planks"
+  }
+}
